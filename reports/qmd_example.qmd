@@ -1,7 +1,13 @@
 ---
 title: "DSCI 310: Historical Horse Population in Canada"
 author: "Tiffany Timbers & Jordan Bourak"
-format: html
+format: 
+    html:
+        toc: true
+        number-sections: true
+bibliography: references.bib
+execute: 
+  echo: false
 editor: source
 ---
 

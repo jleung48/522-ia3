@@ -13,6 +13,8 @@ bibliography: references.bib
 execute: 
   echo: false
 editor: source
+project:
+  output-dir: docs
 ---
 
 ```{python}

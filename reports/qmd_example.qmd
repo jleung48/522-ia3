@@ -5,6 +5,7 @@ format:
     html:
         toc: true
         number-sections: true
+        embed-resources: true
     pdf:
       fig-pos: 'H'
       toc: true
